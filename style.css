@@ -1,0 +1,44 @@
+.intro {
+    font-size: 20px;
+    font-weight: 700;
+    color: grey;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+}
+
+.more {
+    color: darkgray;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.tvs {
+    display: flex;
+    justify-content: space-around;
+    color: darkgray;
+    
+}
+
+.traits {
+    display: flex;
+    justify-content: space-around
+}
+
+.traits-positive{
+    color: lightgreen;
+}
+.traits-negative{
+    color: lightcoral;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-around;
+}
+
+
